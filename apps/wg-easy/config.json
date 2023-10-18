@@ -1,7 +1,7 @@
 {
   "$schema": "../schema.json",
   "name": "Wireguard",
-  "available": true,
+  "available": false,
   "exposable": true,
   "port": 8082,
   "requirements": {

@@ -2,7 +2,7 @@
   "$schema": "../schema.json",
   "name": "SFTPGo",
   "port": 8002,
-  "available": true,
+  "available": false,
   "exposable": true,
   "id": "sftpgo",
   "tipi_version": 8,

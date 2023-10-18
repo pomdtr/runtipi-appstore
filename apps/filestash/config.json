@@ -2,7 +2,7 @@
   "$schema": "../schema.json",
   "name": "Filestash",
   "port": 8189,
-  "available": true,
+  "available": false,
   "exposable": true,
   "id": "filestash",
   "tipi_version": 4,

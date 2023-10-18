@@ -2,7 +2,7 @@
   "$schema": "../schema.json",
   "name": "Resilio",
   "port": 8113,
-  "available": true,
+  "available": false,
   "id": "resilio-sync",
   "tipi_version": 5,
   "version": "3.0.0",

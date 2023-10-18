@@ -1,7 +1,7 @@
 {
   "$schema": "../schema.json",
   "name": "Ollama - Nvidia",
-  "available": true,
+  "available": false,
   "exposable": true,
   "port": 11435,
   "id": "ollama-nvidia",

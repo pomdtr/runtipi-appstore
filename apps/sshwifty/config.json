@@ -2,7 +2,7 @@
   "$schema": "../schema.json",
   "name": "Sshwifty",
   "port": 8274,
-  "available": true,
+  "available": false,
   "exposable": true,
   "id": "sshwifty",
   "tipi_version": 18,

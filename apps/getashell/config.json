@@ -1,7 +1,7 @@
 {
   "$schema": "../schema.json",
   "name": "Get A Shell",
-  "available": true,
+  "available": false,
   "exposable": true,
   "port": 8281,
   "id": "getashell",

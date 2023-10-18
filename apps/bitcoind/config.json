@@ -1,8 +1,8 @@
 {
   "$schema": "../schema.json",
   "name": "Bitcoin",
-  "available": true,
-  "exposable": false,
+  "available": false,
+  "exposable": true,
   "no_gui": true,
   "port": 8333,
   "id": "bitcoind",
